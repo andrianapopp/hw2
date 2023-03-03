@@ -1,5 +1,5 @@
-let x = prompt("number");
-let y = prompt("number");
+const x = prompt("number");
+const y = prompt("number");
 
 function sum(x, y) {
     let z = parseFloat(x) + parseFloat(y)
